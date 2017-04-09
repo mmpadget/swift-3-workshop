@@ -465,7 +465,7 @@ if surveyAnswer != nil{
 In our case, the value is nil because we never assigned it to a specific value.  
 Lets change that.  
 
-beteen the declaration of `var surveyAnswer: String?` and our `if` statement, lets assign a value to surveyAnswer:
+between the declaration of `var surveyAnswer: String?` and our `if` statement, lets assign a value to surveyAnswer:
 ```swift
 surveyAnswer = "This was so much fun!!!"
 ```  
